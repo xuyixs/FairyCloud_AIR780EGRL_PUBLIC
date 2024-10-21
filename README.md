@@ -1,6 +1,8 @@
 # FairyCloud_AIR780EGRL_PUBLIC
 AIR780EG定位器-硬件代码;欢迎交流：QQ群：630017549，个人微信：fairycloud2035
 
+## xuyi 克隆时，已经将PCB原理图copy到立创EDA了。
+
 ## 代码说明
 ### 代码目录
 FairyCloud_AIR780EGRL_PUBLIC/code/
